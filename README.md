@@ -1,0 +1,1 @@
+# ShipOfFools-magyaritas
