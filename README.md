@@ -1,6 +1,6 @@
 # Ship of Fools – magyarítás
 
-**Verzió:** v1.1 (MI segítségével készült) · **Fordította és készítette:** JinxB1rd
+**Verzió:** v1.1 (MI segítségével készült)
 
 ## Támogatás
 
