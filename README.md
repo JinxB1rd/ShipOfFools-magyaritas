@@ -2,6 +2,16 @@
 
 **Verzió:** v1.1 (MI segítségével készült) · **Fordította és készítette:** JinxB1rd
 
+## Támogatás
+
+Ha tetszik a magyarítás, és szeretnéd támogatni a további munkámat, itt megteheted:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-T%C3%A1mogat%C3%A1s-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/jinxb1rd)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-T%C3%A1mogat%C3%A1s-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/jinxb1rd)
+[![PayPal](https://img.shields.io/badge/PayPal-1_%E2%82%AC-00457C?logo=paypal&logoColor=white)](https://paypal.me/jinxb1rd/1EUR)
+
+Már egy euró is sokat segít. Az adományozás önkéntes, a magyarítás mindenkinek ingyenes.
+
 ## Miben más, mint a többi magyarítás
 
 - Valódi **ő**, **ű** és a többi ékezetes betű (a játék betűtípusai kiegészítve)
